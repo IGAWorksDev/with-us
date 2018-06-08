@@ -47,12 +47,12 @@ AdTech 분야의 중심점, **Campaign Intelligence** 팀에서 서버/웹 개�
 - XUnit, Moq, MockHttp등을 통해서 테스트를 작성합니다.
 - IoC/DI컨테이너에 대해서 사용경험이 있으시면 좋아요.
 - AWS Redshift, Elastic Beanstalk, SQS, ElastiCache, Aurora, SES, ECS, ECR, SMS, Lambda 등을 사용해요!
-- Front-End는 Typescript와 Angular 5를 사용합니다. 타입시스템이 없으면 이젠 버티지 못할 것 같아요.
-- Back-End는 모던 C#(7.2)와 NodeJS를 사용하지만 서비스의 분리를 통해 Kotlin, Scala를 사용할 준비는 되어있어요!
+- Front-End는 Typescript와 Angular를 사용합니다.
+- Back-End는 모던 C#(7.2)와 NodeJS를 사용하지만 서비스의 분리를 통해 Kotlin, Scala를 사용할 준비는 되어있습니다.
 - Jenkins를 통해 자동화된 빌드/테스트를 진행하고 있어요, 배포 프로세스는 현재 테스트중입니다!
-- Docker, ECS, SQS를 통해 많은 데이터를 수집하고 처리하는 부분을 만들고 있어요.
-- Hadoop(EMR), Impala를 통해서 데이터 리포팅부분을 점차적으로 개선할 예정이예요.
-- Jira, Confluence, Slack, Git기반의 workflow를 구성하여 일하고 있어요.
+- Docker, ECS, SQS를 통해 많은 데이터를 수집하고 처리하는 부분을 만들고 있습니다.
+- Hadoop(EMR), Impala를 통해서 데이터 리포팅부분을 점차적으로 개선할 예정입니다.
+- Jira, Confluence, Slack, Git기반의 workflow를 구성하여 일하고 있습니다.
 
 ### 우대사항
 
@@ -62,15 +62,15 @@ AdTech 분야의 중심점, **Campaign Intelligence** 팀에서 서버/웹 개�
 
 - 위치 : 서울특별시 상암동 상암산로 48-6, 9층 IGAWorks
 - 근무시간 : 09:30 ~ 18:30
-  - 야근(오후 10시 이후 퇴근), 저녁 식대와 다음날 지연 출근(10시 30분)을 제공해요.
-  - 대중교통이 끊기셨다면 교통비를 제공해요.
-  - 철야시 다음날 오후 출근(2시 30분)하시면 되요.
-- 바디프렌드가 있어요! 작지만 피로를 풀기엔 괜찮은 것 같아요.
-- 음료/캡슐커피(네스프레소)가 무제한이예요.
-- 오전 11시까지 토스트도 제공해요.
+  - 야근(오후 10시 이후 퇴근), 저녁 식대와 다음날 지연 출근(10시 30분)을 제공합니다.
+  - 대중교통이 끊기셨다면 교통비를 제공합니다.
+  - 철야시 다음날 오후 2시 30분까지 출근할 수 있습니다.
+- 바디프렌드(안마기기)를 사용할 수 있습니다.
+- 음료/캡슐커피(네스프레소)를 무제한 제공합니다.
+- 오전 11시까지 토스트도 제공합니다.
 - 개발 서적 구매도 지원합니다.
 - 사내 동호회도 운영합니다.
-- MPN(Visual Studio)를 기본적으로 제공하고 필요에 따라 Jetbrains제품군도 사용하실 수 있어요.
+- MPN(Visual Studio)를 기본적으로 제공하고 필요에 따라 Jetbrains제품군도 사용하실 수 있습니다.
 
 ### 채용 프로세스는 어떻게 되나요?
 
